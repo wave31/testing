@@ -1,0 +1,32 @@
+﻿Revert "CSS and JS files"
+
+This reverts commit 77f0b5622c6f7a9e31cc34dbbaf3e03b0c7682af.
+
+Conflicts:
+	css/my-styles2.css
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# You are currently reverting commit 77f0b56.
+#
+# Changes to be committed:
+#	deleted:    css/foundation-icons.css
+#	deleted:    css/foundation.css
+#	deleted:    css/foundation.min.css
+#	deleted:    css/my-styles.css
+#	deleted:    css/normalize.css
+#	deleted:    js/foundation.min.js
+#	deleted:    js/foundation/foundation.abide.js
+#	deleted:    js/foundation/foundation.forms.js
+#	deleted:    js/foundation/foundation.interchange.js
+#	deleted:    js/foundation/foundation.js
+#	deleted:    js/foundation/foundation.placeholder.js
+#	deleted:    js/foundation/foundation.reveal.js
+#	deleted:    js/vendor/custom.modernizr.js
+#	deleted:    js/vendor/jquery.js
+#	deleted:    js/vendor/zepto.js
+#
+reverting to previous state
