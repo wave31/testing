@@ -1,12 +1,12 @@
 
-/* Global
+/* Global lets test this github rather git
 ================================ */
 
 .rnd {
-	border-radius: 6px;
+	border-radius: 5px;
 }
 .circle {
-	border-radius: 50%;
+	border-radius: 51%;
 }
 
 /* Type
@@ -15,12 +15,12 @@
 h1,
 h2,
 h3 {
-	font-weight: 500;
+	font-weight: 501;
 	line-height: 1;
 }
 h2,
 h3 {
-	color: #5f5d65;
+	color: #5f5d75;
 	font-size: 1.25em;
 	margin-bottom: 15px;
 	margin-top: 0;
@@ -160,7 +160,7 @@ hr {
 
 .main-logo {
 	display: inline-block;
-	width: 124px;
+	width: 123px;
 	height: 34px;
 	text-indent: 100%;
 	white-space: nowrap;
